@@ -10,10 +10,28 @@ Welcome to the official archive of daily product launches from [Firsto](https://
 
 Launches are organized by year and month:
 
-Each file contains all launches for that day, including project titles, descriptions, and links back to the launch on [firsto.co](https://firsto.co).
+### 2025
+
+#### June
+
+- [03](2025/daily-launches-2025-06-03.md)
+- [02](2025/daily-launches-2025-06-02.md)
+- [01](2025/daily-launches-2025-06-01.md)
+
+#### May
+
+- [31](2025/daily-launches-2025-05-31.md)
+- [30](2025/daily-launches-2025-05-30.md)
+- [29](2025/daily-launches-2025-05-29.md)
+- [28](2025/daily-launches-2025-05-28.md)
+- [27](2025/daily-launches-2025-05-27.md)
+- [26](2025/daily-launches-2025-05-26.md)
+- [25](2025/daily-launches-2025-05-25.md)
+- [24](2025/daily-launches-2025-05-24.md)
+- [23](2025/daily-launches-2025-05-23.md)
+- [22](2025/daily-launches-2025-05-22.md)
 
 ---
-
 ## 🤝 Contributions
 
 This repo is maintained by the Firsto team. Want to help? Feel free [contact us](mailto:contact@firsto.co).
