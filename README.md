@@ -14,6 +14,7 @@ Launches are organized by year and month:
 
 #### October
 
+- [2025-10-29](2025/daily-launches-2025-10-29.md)
 - [2025-10-28](2025/daily-launches-2025-10-28.md)
 - [2025-10-27](2025/daily-launches-2025-10-27.md)
 - [2025-10-26](2025/daily-launches-2025-10-26.md)
